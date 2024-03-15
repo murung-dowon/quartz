@@ -1,11 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4.0 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🌳 MURUNG",
@@ -14,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: 'goatcounter', websiteId: 'murung'
     },
-    locale: "ko-KR",
+    locale: "en-US",
     baseUrl: "murung.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -28,24 +23,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#253b2b",
-          tertiary: "#2c5225",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#ffffff", // page background
+          lightgray: "#fcfcfc", // borders
+          gray: "#b8b8b8", // graph links, heavier borders
+          darkgray: "#4e4e4e", // body text
+          dark: "#2b2b2b", // header text and icons
+          secondary: "#4c79cd", // link color, current graph node
+          tertiary: "#4c79cd", // hover states and visited graph nodes
+          highlight: "rgba(255, 208, 0, 0.4)", //internal link background, highlighted text, highlighted lines of code
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#1c2127",
+          lightgray: "#282c34",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#ffffff",
-          tertiary: "#ffffff",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#4c79cd",
+          tertiary: "#4c79cd",
+          highlight: "rgba(255, 208, 0, 0.4",
         },
       },
     },
