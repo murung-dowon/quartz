@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#ffffff", // page background
-          lightgray: "#e0e0e0", // borders
+          lightgray: "#e0e0e0", // borders, serach bar
           gray: "#2e2e2e", // graph links, heavier borders
           darkgray: "#4e4e4e", // body text
           dark: "#2b2b2b", // header text and icons
@@ -34,7 +34,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#1c2127",
-          lightgray: "#f0f0f0",
+          lightgray: "#5a5f63",
           gray: "#f0f0f0",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
