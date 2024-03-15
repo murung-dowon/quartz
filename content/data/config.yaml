@@ -1,0 +1,2 @@
+favicon:
+  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
