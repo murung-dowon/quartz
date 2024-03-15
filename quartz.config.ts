@@ -30,7 +30,7 @@ const config: QuartzConfig = {
           dark: "#2b2b2b", // header text and icons
           secondary: "#4c79cd", // link color, current graph node
           tertiary: "#4c79cd", // hover states and visited graph nodes
-          highlight: "rgba(255, 208, 0, 0.15)", //internal link background, highlighted text, highlighted lines of code
+          highlight: "rgba(255, 208, 0, 0.4)", //internal link background, highlighted text, highlighted lines of code
         },
         darkMode: {
           light: "#1c2127",
@@ -40,7 +40,7 @@ const config: QuartzConfig = {
           dark: "#ebebec",
           secondary: "#4c79cd",
           tertiary: "#4c79cd",
-          highlight: "rgba(255, 208, 0, 0.4)",
+          highlight: "rgba(255, 208, 0, 0.15)",
         },
       },
     },
