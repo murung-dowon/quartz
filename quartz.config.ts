@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Noto Sans Korean",
-        body: "Nanum Gothic",
+        body: "Noto Sans Korean",
         code: "Nanum Gothic Coding",
       },
       colors: {
