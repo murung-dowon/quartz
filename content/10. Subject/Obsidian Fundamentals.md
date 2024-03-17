@@ -1,14 +1,10 @@
 ---
 tags:
   - Obsidian
-  - Publishing
   - Infra
-aliases:
-  - Obsidian
-  - Publishing
-  - Infra
+aliases: 
 type: Subject
-created: 2024-03-14
+created: 2024-03-17
 finished:
 ---
 # UP : [[Study Dashboard]]
@@ -19,13 +15,13 @@ TABLE WITHOUT ID
 	file.link AS "Title",
 	week AS "Week",
 	reviewed AS "Reviewed"
-FROM [[Obsidian Basics]] AND "20. Note" WHERE type = "Note"
+FROM [[Obsidian Fundamentals]] AND "20. Note" WHERE type = "Note"
 ```
 
 ## Tasks
 ```dataview
 TASK
-FROM [[Obsidian Basics]]
+FROM [[Obsidian Fundamentals]]
 ```
 
 ## Summary

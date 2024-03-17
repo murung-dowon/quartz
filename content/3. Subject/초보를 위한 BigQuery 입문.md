@@ -15,7 +15,7 @@ TABLE WITHOUT ID
 	file.link AS "Title",
 	week AS "Week",
 	reviewed AS "Reviewed"
-FROM [[초보를 위한 BigQuery 입문]] AND "20. Note" WHERE type = "Note"
+FROM [[초보를 위한 BigQuery 입문]] AND "6. Note" WHERE type = "Note"
 ```
 
 ## Tasks

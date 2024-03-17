@@ -10,7 +10,7 @@ summary: false
 created: 2024-03-14
 reviewed:
 ---
-### Topic:: [[Obsidian Basics]]
+### Topic:: [[3. Subject/Obsidian Fundamentals]]
 **Previous Note** : [[]]
 
 - - -

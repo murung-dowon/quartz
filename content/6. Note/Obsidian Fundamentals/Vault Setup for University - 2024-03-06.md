@@ -3,14 +3,13 @@ tags:
   - Obsidian
   - System
 aliases:
-  - Obsidian
-  - System
+  - Univ
 type: Note
 created: 2024-03-06
 reviewed: false
 summary: false
 ---
-### Subject:: [[Brian's Brain Trinity]]
+### Subject:: [[3. Subject/Obsidian Fundamentals]]
 ### Week :: 1
 **Previous Note** : [[]]
 
@@ -31,7 +30,6 @@ https://www.youtube.com/watch?v=NrwTzzSNPK8
 #### 3. Create Home
 - Add Tags & Aliases
 - Add Dataviews for 
-
 
 ## Tasks
 - [x] Create New Vault #Obsidian ✅ 2024-03-06

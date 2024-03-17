@@ -1,12 +1,12 @@
 ---
 tags:
   - Obsidian
-  - System
+  - Publishing
+  - Infra
 aliases:
-  - Obsidian
-  - System
+  - Infra
 type: Subject
-created: 2024-03-06
+created: 2024-03-14
 finished:
 ---
 # UP : [[Study Dashboard]]
@@ -17,15 +17,13 @@ TABLE WITHOUT ID
 	file.link AS "Title",
 	week AS "Week",
 	reviewed AS "Reviewed"
-FROM [[Brian's Brain Trinity]] AND "20. Note" WHERE type = "Note"
-SORT created Desc
+FROM [[Obsidian Fundamentals]] AND "6. Note" WHERE type = "Note"
 ```
 
 ## Tasks
 ```dataview
 TASK
-FROM [[Brian's Brain Trinity]]
+FROM [[Obsidian Basics]]
 ```
 
-## Summaries
-
+## Summary
