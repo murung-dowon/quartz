@@ -1,10 +1,11 @@
 ---
 title: MURUNG, Personal Study Archive
 ---
+![[✏️ Recent Notes]]
 
 
-![[Recent Readings]]
+![[🗞️ Recent Articles]]
 
-![[Recent Studies]]
+![[📖 Recent Studies]]
 
-![[Recent Books]]
+![[📚 Recent Books]]

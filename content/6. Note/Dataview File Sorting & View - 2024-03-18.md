@@ -4,9 +4,9 @@ tags:
   - Dataview
 aliases: 
 type: Note
-isdone: false
+isdone: true
 created: 2024-03-18
-reviewed:
+reviewed: 2024-03-18
 ---
 ### Topic:: [[Obsidian Fundamentals]]
 **Previous Note** : [[]]
