@@ -35,7 +35,7 @@ reviewed:
 
 
 #### 1. 조직 / 운영 변화 (Management Transformation)
-- [[콘웨이의 법칙]] : 조직의 복잡도는 곧 아키텍처의 복잡도로 전이된다. 
+- [[콘웨이의 법칙 - 2024-03-18]] : 조직의 복잡도는 곧 아키텍처의 복잡도로 전이된다. 
 
 #### 2. 가치사슬 재정의 (Valuechain Transformation)
 
