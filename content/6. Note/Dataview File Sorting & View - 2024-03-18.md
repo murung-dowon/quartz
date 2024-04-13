@@ -14,10 +14,10 @@ reviewed: 2024-03-18
 - - -
 ## Summary
 
-SORT file.mtime 
+`SORT file.mtime` 
 - 파일 생성 시간에 따른 소팅 진행 
 
-LIMIT 7
+`LIMIT 7`
 - 최대 개수를 n개로 제한
 
 - - -
